@@ -1,0 +1,9 @@
+span.red{ color:red; } 
+span.blue{ color:blue; } 
+span.h3 { font-size:x-large; font-weight:600; color:red; } 
+span.large { font-size:xx-large; position:absolute; top:3px; }
+ span.normal{ font-size:smaller; padding:10px 0px 20px 0px; }
+  span.block{ display:block; } span.semibold-large{ font-weight:600; font-size:xx-large } 
+  span.margintop { margin-top:30px } span.marginleft { margin-left:20px } 
+  span.equal { position:relative; top:1px; } span.absolute { position:absolute; }
+   span.lightskyblue{ color:lightskyblue; } span.text{ font-size:large; }
